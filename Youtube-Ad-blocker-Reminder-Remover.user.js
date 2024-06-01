@@ -216,7 +216,7 @@
                 log("Found Ad");
 
 
-                const skipButtons = ['ytp-ad-skip-button-container', 'ytp-ad-skip-button-modern', '.videoAdUiSkipButton', '.ytp-ad-skip-button', '.ytp-ad-skip-button-modern', '.ytp-ad-skip-button', '.ytp-ad-skip-button-slot', 'ytp-skip-ad-button', 'skip-button' ];
+                const skipButtons = ['ytp-ad-skip-button-container', 'ytp-ad-skip-button-modern', '.videoAdUiSkipButton', '.ytp-ad-skip-button', '.ytp-ad-skip-button-modern', '.ytp-ad-skip-button', '.ytp-ad-skip-button-slot', 'ytp-skip-ad-button', 'skip-button', '.ytp-skip-ad-button' ];
 
                 // Add a little bit of obfuscation when skipping to the end of the video.
                 if (video){
